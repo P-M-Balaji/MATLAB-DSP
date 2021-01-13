@@ -1,4 +1,4 @@
-% Cross correlation
+% Cross Correlation
 clc 
 close all
 clear ALL
